@@ -7,7 +7,7 @@ body {
     'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #c5cae9;
+  background-color:ghostwhite
   color: #212121;
   line-height: 1.5;
 }
@@ -15,6 +15,10 @@ body {
 img {
   display: block;
   max-width: 100%;
+}
+
+.body {
+  background-color: #c5cae9;
 }
 
 .value {
